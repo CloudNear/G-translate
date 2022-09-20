@@ -1,0 +1,2 @@
+# G-translate
+Html/ Js
