@@ -14,3 +14,30 @@
     </script>
 
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+.goog-te-combo,
+.goog-te-banner *,
+.goog-te-ftab *,
+.goog-te-menu *,
+.goog-te-menu2 *,
+.goog-te-balloon * {
+  font-family: "Poppins" !important;
+  font-size: 14px !important;
+}
+
+.goog-te-gadget .goog-te-combo {
+  margin: 5px 0 !important;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  padding: 5px !important;
+  border-radius: 8px;
+  border: none;
+}
